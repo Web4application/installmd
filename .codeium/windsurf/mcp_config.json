@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "admin-mcp-onboarding": {
+      "serverUrl": "https://install.md/installmd/admin-mcp-onboarding"
+    }
+  }
+}
