@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "admin-mcp-onboarding": {
+      "type": "remote",
+      "url": "https://install.md/installmd/admin-mcp-onboarding",
+      "enabled": true
+    }
+  }
+}
