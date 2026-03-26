@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "admin-mcp-onboarding": {
+      "command": "npx",
+      "args": ["mcp-remote", "https://install.md/installmd/admin-mcp-onboarding"]
+    }
+  }
+}
